@@ -1,0 +1,1 @@
+package main;import "fmt";func main(){fmt.Println("single_line_syntax");fmt.Println("hello guys new go developer arrived");}
