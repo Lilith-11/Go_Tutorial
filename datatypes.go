@@ -17,5 +17,4 @@ func main(){
 	fmt.Println("strings")
 	var string1 string="hello,World!!"
 	fmt.Println(string1)
-	
-}
+	}
