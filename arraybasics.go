@@ -22,6 +22,13 @@ func main(){
 	// declaring 2x3 array var matrix [2][3]int
 	var matrix = [2][3]int{{1,2,3},{1,2,3}}
 	fmt.Println(matrix)
+	matrix[0][0]=2 //accesing the 2 dimensional array
+	fmt.Println(matrix)
+    //copying the array
+	var newarr [5]int
+	copy(newarr[:],numbers[:])
+	fmt.Println(newarr)
+
 
 	
 }
