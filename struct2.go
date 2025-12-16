@@ -11,4 +11,6 @@ func main(){
 	//accessing and modifying the struct field
 	p.name="Kannan"
 	fmt.Println(p.name)
+	//fmt.Println(Person.name)
+	//var p1:=Person{name:"Jacksparrow"}
 }
